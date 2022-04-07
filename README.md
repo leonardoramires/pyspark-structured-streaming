@@ -1,4 +1,4 @@
-# Projeto - Aula Spark Structured Streaming
+# Aula Spark Structured Streaming
 
 Passos: 
 
